@@ -20,7 +20,7 @@ const EcomCashback = () => {
             The Best Solution for Small to Large Spenders
           </h2>
           <p className="text-muted-foreground text-lg">
-            With over $50M+ in managed ad spend annually, our platform delivers unmatched flexibility and performance
+            With over $218M+ in managed ad spend annually, our platform delivers unmatched flexibility and performance
           </p>
         </div>
 
