@@ -11,7 +11,7 @@ import { trackPageView } from "@/utils/facebookPixel";
 import { trackRedditPageView } from "@/utils/redditPixel";
 import Index from "./pages/Index";
 import Ecommerce from "./pages/Ecommerce";
-import NotFound from "./pages/NotFound";
+import NotFound from "./pages/NotFound"
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import Dashboard from "./pages/Dashboard";
